@@ -1,1 +1,2 @@
-console.log("conflit 2");
+
+console.log("conflit 1");
